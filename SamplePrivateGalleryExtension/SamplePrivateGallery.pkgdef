@@ -1,0 +1,5 @@
+﻿[$RootKey$\ExtensionManager\Repositories\{a6b87ba0-b647-4c74-81e6-06fad47b6548}]
+@="http://my-feed-xml.com/feed.xml"
+"Priority"=dword:00000005
+"Protocol"="Atom Feed"
+"DisplayName"="My sample gallery"
